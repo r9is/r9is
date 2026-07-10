@@ -2,7 +2,7 @@
     <img src="./banner (1).png" alt="Banner" />
 </div>
 
-## Hi <img src="./wave.png" alt="Wave" width="30" />, I'm Reis.
+## Hi <img src="./wave.png" alt="Wave" width="30" />, I'm rei.
 > I love to build cool stuffs on the internet!
 
 <div align="center">
